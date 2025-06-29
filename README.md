@@ -1,5 +1,7 @@
 # Deep Learning Specialization on Coursera
 
+**Currently taking this course since May 2025, work in progress**
+
 **Master Deep Learning, and Break into AI**
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
